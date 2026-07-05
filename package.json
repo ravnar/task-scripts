@@ -28,7 +28,7 @@
         "start": "vite",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "test": "jest --watchAll",
+        "test": "jest",
         "test:build": "jest",
         "lint": "eslint ./src",
         "prepare": "husky install"
